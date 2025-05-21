@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"name": "html-sample-assignment-with-playwright-tests",
+		"path": "."
+	}
+],
+	"settings": {
+		"liveServer.settings.CustomBrowser": null,
+		"liveServer.settings.file": ""
+	}
+}
